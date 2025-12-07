@@ -1,0 +1,6 @@
+name,age,gender,city,purchaseamount,Discount,netAmount
+john,25,male,newyork,250,25.0,225.0
+sara,25,female,newyork,300,30.0,270.0
+atul,28,male,india,400,40.0,360.0
+akash,25,male,india,100,10.0,90.0
+pooja,25,female,india,300,30.0,270.0
